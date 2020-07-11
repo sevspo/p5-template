@@ -1,6 +1,6 @@
-# Welcome to p5.js
+# P5 Template Repo
 
-You have downloaded the complete p5.js library ZIP file, yay!
+### This is a template repo to start creating with P5 right away!
 
 # Contents of the p5 folder
 
