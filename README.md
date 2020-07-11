@@ -2,7 +2,7 @@
 
 ### This is a template repo to start creating with P5 right away!
 
-# Contents of the p5 folder
+## Contents of the p5 folder
 
 * p5.js file
 * p5.min.js file
